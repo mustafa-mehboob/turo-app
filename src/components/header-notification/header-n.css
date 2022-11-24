@@ -1,0 +1,15 @@
+.bg-cnt {
+    background-color: #F4F4F4;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    max-width: 100%;
+    border-bottom: 1px solid #E7E7E8;
+    color: black;
+    padding: 1%;
+}
+a {
+    color: black;
+    font-size: 1.2vw;
+    font-weight: 400;
+}
